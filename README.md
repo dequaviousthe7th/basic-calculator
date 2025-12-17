@@ -1,7 +1,10 @@
 # Basic Calculator
 
 ## Preview
-![Basic Calculator Preview](assets/preview.png)
+
+<p allign="center">
+  <img src="assets/preview.png" alt="Basic Calculator Preview" width="280">
+</p>
 
 A clean, responsive calculator built with vanilla HTML, CSS, and JavaScript.
 
