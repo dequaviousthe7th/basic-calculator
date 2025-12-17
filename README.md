@@ -24,7 +24,7 @@ Simply open `index.html` in your browser to use the calculator.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/basic-calculator.git
+   git clone https://github.com/dequaviousthe7th/basic-calculator.git
    ```
 2. Open `index.html` in your web browser
 3. Start calculating!
