@@ -1,13 +1,5 @@
 # Basic Calculator
 
-## Preview
-
-<p allign="center">
-  <img src="assets/preview.png" alt="Basic Calculator Preview" width="280">
-</p>
-
-A clean, responsive calculator built with vanilla HTML, CSS, and JavaScript.
-
 ## Features
 
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
@@ -15,6 +7,14 @@ A clean, responsive calculator built with vanilla HTML, CSS, and JavaScript.
 - Clear display function
 - Modern dark theme with orange accent buttons
 - Responsive design
+
+## Preview
+
+<p allign="center">
+  <img src="assets/preview.png" alt="Basic Calculator Preview" width="280">
+</p>
+
+A clean, responsive calculator built with vanilla HTML, CSS, and JavaScript.
 
 ## Demo
 
