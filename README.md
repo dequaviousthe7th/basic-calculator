@@ -1,5 +1,8 @@
 # Basic Calculator
 
+## Preview
+![Basic Calculator Preview](assets/preview.png)
+
 A clean, responsive calculator built with vanilla HTML, CSS, and JavaScript.
 
 ## Features
