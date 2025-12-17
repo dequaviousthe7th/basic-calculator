@@ -17,14 +17,15 @@ body {
 
 #display{
     width: 100%;
-    height: 20px;
+    padding: 20px;
     font-size: 5rem;
     text-align: left;
     border: none;
-    background-color: 0hsl(0, 0%, 20%);
+    background-color: hsl(0, 0%, 20%);
+    color: white;
 }
 
-#keys{
+#buttons{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
